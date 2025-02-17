@@ -23,11 +23,11 @@ The objective of this project is to develop a **classifier** that utilizes the p
 ### Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ml-continuous-assessment.git
+   git clone https://github.com/yourusername/marketing-predictor.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ml-continuous-assessment
+   cd marketing-predictor
    ```
 3. Open the Jupyter Notebook:
    ```bash
